@@ -1,3 +1,6 @@
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=for-the-badge&logo=powerbi)
+![Status](https://img.shields.io/badge/Status-Em%20Andamento-blue)
+![License](https://img.shields.io/badge/License-Free-green)
 # CruXCam Dashboard ⚽📊
 
 Dashboard interativo desenvolvido em **Power BI** para análise das partidas entre **Cruzeiro x Atlético**.  
@@ -28,3 +31,8 @@ O projeto explora dados de jogos, jogadores e informações financeiras, permiti
 - **Página Financeiro**: Evolução de receitas e valores de elenco (em desenvolvimento).
 
 ---
+## 🧰 Tecnologias Utilizadas
+- Power BI Desktop
+- DAX (Data Analysis Expressions)
+- CSV (dados estruturados)
+- GitHub para versionamento e portfólio
