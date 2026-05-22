@@ -90,6 +90,28 @@ Este projeto foi desenvolvido com foco em:
 ✅ Storytelling visual aplicado ao esporte  
 
 ---
+## 📷 Preview
+### 🏠 Página Inicial
+![Home](imagens/Tela_Inicio_V3.png)
+
+### ⚔️ Página Confrontos
+![Confrontos](imagens/Tela_Confrontos_V3.png)
+
+### 👤 Página Jogadores
+![Jogadores](imagens/Tela_Jogadores_V3.png)
+
+### 💰 Página Financeiro
+![Financeiro](imagens/Tela_Financeiro_V3.png)
+
+### 📈 Página Insights
+![Insights](imagens/Tela_Insights_V3.png)
+
+## ▶ Como Utilizar
+
+1. Faça o download do arquivo `.pbix`
+2. Abra utilizando o Power BI Desktop
+3. Atualize as fontes CSV caso necessário
+
 
 ## 🚀 Autor
 Projeto desenvolvido por **Diego Rocha** como prática de análise de dados e construção de portfólio em Power BI.
